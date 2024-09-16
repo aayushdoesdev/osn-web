@@ -1,0 +1,46 @@
+[
+    {
+        "question": "Do you provide ready-made algorithms?",
+        "answer": "Yes, we offer a library of pre-built algorithms that you can use or customize to fit your trading strategies."
+      },
+      {
+        "question": "How do I sign-up for the platform?",
+        "answer": "To sign-up:\n Visit our official website - https://www.matrixtradingtech.com\n=> Click on the signup/register button on our homepage.\n=> Fill in all your details and create a new password.\n=> Agree with the terms and conditions then click on register.\n=> You will receive a confirmation email to verify your account and then you can login."
+      },
+      {
+        "question": "What are the Charges for using your platform?",
+        "answer": "Our platform operates on an annual subscription basis with several plans to suit different needs. You can get the details by connecting with our representative through the demo call."
+      },
+      {
+        "question": "Do you provide any trial period?",
+        "answer": "Yes, we offer a demo account for 3-7 days free of cost where you can check the trades and familiarize yourself with the platform’s features without using real money."
+      },
+      {
+        "question": "Can I get help with creating trading algorithms?",
+        "answer": "Yes, we have a team of experts who can assist you in developing and optimizing your trading algorithms."
+      },
+      {
+        "question": "Is there a minimum margin required to start trading?",
+        "answer": "Yes, the minimum margin required to start trading is ₹10k-15k for 1 lot."
+      },
+      {
+        "question": "What should I do if I encounter technical issues?",
+        "answer": "If you experience any technical issues, please contact our support team immediately via call, WhatsApp, or email."
+      },
+      {
+        "question": "What is the difference between live trade and paper trade?",
+        "answer": "'Paper Trading' involves simulating trading activities using virtual money instead of real money. It allows traders to practice and refine their strategies without any financial risk.\nWhile, 'Live Trading' involves buying and selling financial securities in real markets using actual money. Trades are executed in real-time, and profits or losses are realized."
+      },
+      {
+        "question": "What is webhook?",
+        "answer": "A webhook is a tool used to automate responses to real-time data. Webhooks can send notifications or alerts based on specific market events or conditions, enabling traders to take immediate action. They can trigger automated trading actions when certain criteria are met, allowing for timely and efficient trades without manual intervention."
+      },
+      {
+        "question": "How do I connect my broker account to your platform?",
+        "answer": "You can connect your brokerage account through the platform’s integration settings. Follow the instructions from the tutorial video to authorize and link your brokerage account."
+      },
+      {
+        "question": "What types of markets can I trade in?",
+        "answer": "You can trade in index options, i.e., nifty option buying and banknifty option buying."
+      }
+]

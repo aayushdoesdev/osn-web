@@ -1,0 +1,23 @@
+:root {
+    --font-size: 16px;
+    --background-color: #F7FEFF;
+    --primary-color: #F9F9F9;
+    --text-color: ;
+    --border-radius: 4px;
+    /* Add more variables as needed */
+}
+
+
+.p-accordion-header {
+    background-color: var(--background-color) !important;
+    background: transparent;
+    border-bottom:1px solid #EAECF0;
+}
+
+.p-accordion-content {
+    background: var(--background-color);
+}
+
+.p-accordion .p-accordion-header .p-accordion-header-link{
+    background: var(--background-color);
+}
